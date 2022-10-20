@@ -1,1 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T00:58:45.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.4.2" etag="Mar8YKiDO_qIsIh56QHG" type="github"><diagram id="0VpWggZCCPU3EPXpi0Sm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-20T01:09:02.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Dy4Rai1zDPH7xi5XzcE4" version="20.4.2" type="github">
+  <diagram id="0VpWggZCCPU3EPXpi0Sm" name="Página-1">
+    <mxGraphModel dx="152" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="froTONMzd2Bx2mOcX4rz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="froTONMzd2Bx2mOcX4rz-4" target="froTONMzd2Bx2mOcX4rz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="froTONMzd2Bx2mOcX4rz-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;inicio&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="froTONMzd2Bx2mOcX4rz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="froTONMzd2Bx2mOcX4rz-6" target="froTONMzd2Bx2mOcX4rz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="froTONMzd2Bx2mOcX4rz-6" value="&lt;font color=&quot;#000000&quot;&gt;Estudar Fluxograma&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=19;fillColor=#d5e8d4;strokeColor=#82b366;direction=west;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="froTONMzd2Bx2mOcX4rz-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Não&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=11;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="froTONMzd2Bx2mOcX4rz-8" target="froTONMzd2Bx2mOcX4rz-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="280" />
+              <mxPoint x="130" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="froTONMzd2Bx2mOcX4rz-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;SIM&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=11;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="froTONMzd2Bx2mOcX4rz-8" target="froTONMzd2Bx2mOcX4rz-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="280.16666666666674" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="froTONMzd2Bx2mOcX4rz-8" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Aprendeu Fluxograma&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;glass=0;labelBackgroundColor=none;strokeColor=#d6b656;fontSize=19;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="froTONMzd2Bx2mOcX4rz-12" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Fim&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="364" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
